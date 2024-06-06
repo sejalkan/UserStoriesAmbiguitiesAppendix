@@ -1,4 +1,6 @@
 ## Prompts used for the combination of Few shot and Chain-of-Thought technique
+#### The folowing text is an example of how a combination of few-shot and Chain-of-Thought technique was used:
+
 
 I am currently conducting research on Detecting and Resolving Ambiguities in User Stories with the help of LLMs. Can you help me answer a series of questions for my research? Following are examples to help you understand the nature of the questions:
 
