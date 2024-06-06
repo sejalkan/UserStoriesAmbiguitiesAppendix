@@ -55,6 +55,7 @@ Following are examples of types of ambiguities that may appear in user stories w
     **Knowledge:** The user story contains pragmatic ambiguity because it is not complete since the word ‘content’ in the user story is unclear. A complete user story creates a feature-complete sentence without missing any steps.
 
 **Prompt:** 
+
 **Input:** User story: As a user of the system, I want to be able to check the history of waste I recycled as well as keep a record of it,  so that I can review previous waste deposits.
 
 **Question:** Is the provided user story ambiguous? If the user story is ambiguous, specify the ambiguity based on the QUS framework (choose either syntactic, semantic or pragmatic) and the user story template which is: following the format "As a (..), I want (..), so that (..)". If no, please write no.
