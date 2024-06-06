@@ -1,4 +1,6 @@
 ## Prompts used for Generated Knowledge technique
+#### The following text is the description of how generated knowledge prompt engineering technique was used:
+
 I am currently conducting research on Detecting and Resolving Ambiguities in User Stories with the help of LLMs. Can you help me answer a series of questions for my research? 
 Following are examples of types of ambiguities that may appear in user stories with explanations of why they are ambiguous. This shall help you understand how to detect and resolve ambiguities in user stories: 
 
